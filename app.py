@@ -4,7 +4,7 @@ import pickle as pkl
 import pandas
 app = Flask(__name__)
 
-model = pkl.load(open("D:\Vs.code\.vscode\CarPrice\LinearRegressionmodel.pkl" , 'rb'))
+model = pkl.load(open("CarPrice\LinearRegressionmodel.pkl" , 'rb'))
 car = pd.read_csv('D:\Vs.code\.vscode\CarPrice\Clear_car_data.csv')
 
 
