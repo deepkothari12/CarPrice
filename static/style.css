@@ -1,0 +1,33 @@
+
+.nav-bar{
+    background-color: #D6C7AE;
+    font-family: fangsong;
+    text-align: center;
+    font-size: 39px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.card{
+    width: 50%;
+    height: 50%;
+    margin-left: 23%;
+    
+    align-items: center;
+    padding-bottom: 37%;
+    margin-top: 3%;
+    
+}
+
+.card-body{
+    margin-top: 5%;
+    width: 90%;
+    height: 50px;
+    
+}
+.col-18{
+
+    padding-top: 5.2%;
+    text-align: left;
+    font-size: 20px;
+    font-family: fangsong;
+}
